@@ -1,0 +1,63 @@
+<?php
+
+return [
+	'setting'						=>		'Thiết lập',
+	'report'						=>		'Báo cáo',
+	'report_stock'					=>		'Xuất nhập kho',
+	'transaction'					=>		'Thu chi',
+	'sell'							=> 		'Bán hàng',
+
+	'setting_shop'					=>		'Thiết lập cửa hàng',
+	'manage_all'					=> 		'Quản lý nhóm, hàng hoá',
+	'manage_staff'					=> 		'Quản lý nhân viên',
+	'manage_customer'				=>		'Quản lý khách hàng',
+	'manage_customer_agency'		=>		'Quản lý đại lý',
+	'delete_server'					=> 		'Xóa dữ liệu máy chủ',
+	'delete_local'					=>		'Xóa dữ liệu trên điện thoại',
+	'setting_role'					=> 		'Thiết lập vai trò',
+	'manage_supplier'				=> 		'Quản lý nhà cung cấp',
+	'choose_staff_order'			=> 		'Chọn nhân viên khi order',
+	'change_print_option'			=> 		'Thay đổi thiết lập tùy chọn in',
+
+	'sale'							=>		'Bán hàng',
+	'order_option'					=>		'Thêm sửa order',
+	'modify_VAT'					=> 		'Giảm giá, phụ thu, hóa đơn',
+	'taking_a_payment'				=>		'Thanh toán hóa đơn',
+	'cancel_unpaid_bill'			=>		'Hủy hóa đơn chưa thanh toán',
+	'cancel_paid_bill'				=>		'Hủy hóa đơn đã thanh toán',
+//	'view_staff_layout'				=>		'Hiển thị sơ đồ gọi nhân viên',
+	'displayo_order_his'			=>		'Hiển thị lịch sử đơn hàng',
+	'cancel_item'					=>		'Hủy món',
+	'modify_item_price'				=>		'Thay đổi giá món',
+	'adjust_item_order'				=>		'Thay đổi số lượng món đã order',
+//	'quick_sale'					=>		'Sử dụng thanh toán nhanh',
+//	'provisional_bill'				=>		'Cho phép in phiếu tạm tính',
+//	'split_table'					=>		'Tách bàn',
+//	'merge_table'					=>		'Gộp bàn',
+//	'changeTable'					=>		'Đổi bàn',
+//
+	'report'						=>		'Báo cáo',
+	'report_today_actives'			=>		'Hoạt động trong ngày',
+	'bussiness_status'				=>		'Tình hình kinh doanh',
+	'number_customer'				=>		'Số lượng khách hàng',
+	'revenue'						=>		'Doanh thu',
+	'customer_dept'					=>		'Công nợ khách hàng',
+	'bill_his'						=>		'Lịch sử phiếu',
+//
+//	'optionBar'						=> 		'Xem thiết lập Bar/bếp',
+//
+//	'newReceiptPayment'				=>		'Thêm mới thu chi',
+//	'updateReciptpayment'			=>		'Sửa xóa thu chi',
+//	'viewAdjusBalance'				=>		'Xem ví điều chỉnh số dư',
+//	'viewAllTransaction'			=>		'Xem dữ liệu thu chi tất cả tài khoản khác',
+//
+	'adjust_stock'					=>		'Thêm, sửa, xóa danh mục kho',
+	'adjust_stock_in_out'			=>		'Thêm, sửa, xóa xuất nhập kho',
+	'inventory_checking'			=>		'Kiểm kê kho',
+//
+//	'orderSetting' 					=> 		'Thiết lập hoá đơn',
+//	'allowOpenCloseShift' 			=> 		'Cho phép đóng/mở ca',
+//	'modifyTopping' 				=> 		'Chỉnh sửa Topping',
+	'receive_noti_order' 			=> 		'Nhận thông báo khi có cập nhật hoá đơn',
+	'create_account_system' 		=> 		'Tạo tài khoản hệ thống',
+];
